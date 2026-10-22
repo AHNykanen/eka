@@ -1,0 +1,16 @@
+Last login: Sun Sep 27 21:46:08 on ttys001
+/Users/Timo/.zprofile:export:13: not valid in this context: /Users/Timo/.zprofile
+Timo@MacBook-Pro ~ % ls
+-R			gittiha			Pictures
+~ vaihtelu2.xltx	hello.sh		Public
+Applications		Lataukset kopio		PycharmProjects
+chown			Library			Sites
+Desktop			Movies			sudo
+Documents		Music			Timo:admin
+Downloads		painon vaihtelu2.xltx
+Timo@MacBook-Pro ~ % cd gittiha
+Timo@MacBook-Pro gittiha % ls
+gitti2			lapio_vko2.txt		tyhja_tiedosto.txt
+Timo@MacBook-Pro gittiha % cd gitti2
+Timo@MacBook-Pro gitti2 % ls
+tarina.txt 
